@@ -12,10 +12,10 @@ Directions here: [Google Support](https://support.google.com/accounts/answer/601
 
 **Run it in the background**
 
-    exec -a warning-sys python3 main.py &
+    python3 main.py
 
 **Stopping**
 
-    pfkill -f warning-sys
+    Control + C
     
 **Enjoy!**
